@@ -44,14 +44,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmMain.cs [Projeto]",
+              "Title": "frmMain.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ezequiel.daniel\\source\\repos\\PegarMesPorEscrito\\RemoverAcentosEObterNomeDoMes\\frmMain.cs",
               "RelativeDocumentMoniker": "RemoverAcentosEObterNomeDoMes\\frmMain.cs",
-              "ToolTip": "C:\\Users\\ezequiel.daniel\\source\\repos\\PegarMesPorEscrito\\RemoverAcentosEObterNomeDoMes\\frmMain.cs [Projeto]",
-              "RelativeToolTip": "RemoverAcentosEObterNomeDoMes\\frmMain.cs [Projeto]",
+              "ToolTip": "C:\\Users\\ezequiel.daniel\\source\\repos\\PegarMesPorEscrito\\RemoverAcentosEObterNomeDoMes\\frmMain.cs [Design]",
+              "RelativeToolTip": "RemoverAcentosEObterNomeDoMes\\frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T13:54:44.56Z",
-              "EditorCaption": " [Projeto]"
+              "EditorCaption": " [Design]"
             }
           ]
         }
