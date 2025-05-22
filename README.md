@@ -5,14 +5,16 @@
 
 Este projeto apresenta o nome do mês em texto a partir de uma data informada.
 
----
 
 ## 🧩 O Projeto
 
 Recentemente foi necessário alterar o sistema aqui para usar o nome do mês da data em questão, ao invés do numero, como é usado atualmente. Por isso, estou deixando este programa exemplo, para ter como uma base para alguma necessidade de você em seu projeto, necessitar desta informação. 
 Existem dois resultados no programa:
 
+
 ![](pegarmes.PNG)
+
+
 
 ### Resultado 1
 
