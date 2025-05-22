@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ezequiel.daniel\\source\\repos\\PegarMesPorEscrito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89409048-B7A5-47F3-B4F8-B317B2D02BAE}|RemoverAcentosEObterNomeDoMes\\RemoverAcentosEObterNomeDoMes.csproj|c:\\users\\ezequiel.daniel\\source\\repos\\pegarmesporescrito\\removeracentoseobternomedomes\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89409048-B7A5-47F3-B4F8-B317B2D02BAE}|RemoverAcentosEObterNomeDoMes\\RemoverAcentosEObterNomeDoMes.csproj|solutionrelative:removeracentoseobternomedomes\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89409048-B7A5-47F3-B4F8-B317B2D02BAE}|RemoverAcentosEObterNomeDoMes\\RemoverAcentosEObterNomeDoMes.csproj|c:\\users\\ezequiel.daniel\\source\\repos\\pegarmesporescrito\\removeracentoseobternomedomes\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89409048-B7A5-47F3-B4F8-B317B2D02BAE}|RemoverAcentosEObterNomeDoMes\\RemoverAcentosEObterNomeDoMes.csproj|solutionrelative:removeracentoseobternomedomes\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\ezequiel.daniel\\source\\repos\\PegarMesPorEscrito\\RemoverAcentosEObterNomeDoMes\\frmMain.cs",
+              "RelativeDocumentMoniker": "RemoverAcentosEObterNomeDoMes\\frmMain.cs",
+              "ToolTip": "C:\\Users\\ezequiel.daniel\\source\\repos\\PegarMesPorEscrito\\RemoverAcentosEObterNomeDoMes\\frmMain.cs",
+              "RelativeToolTip": "RemoverAcentosEObterNomeDoMes\\frmMain.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAnwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:12:08.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ezequiel.daniel\\source\\repos\\PegarMesPorEscrito\\RemoverAcentosEObterNomeDoMes\\frmMain.cs",
+              "RelativeDocumentMoniker": "RemoverAcentosEObterNomeDoMes\\frmMain.cs",
+              "ToolTip": "C:\\Users\\ezequiel.daniel\\source\\repos\\PegarMesPorEscrito\\RemoverAcentosEObterNomeDoMes\\frmMain.cs [Projeto]",
+              "RelativeToolTip": "RemoverAcentosEObterNomeDoMes\\frmMain.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:54:44.56Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
